@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Kunkka — HID input devices and AI products</title>
+<desc id="desc">A blue product studio banner with a keyboard and mouse illustration.</desc>
+<rect width="1280" height="360" rx="20" fill="#edf3f8"/>
+<path d="M0 320H1280" stroke="#d7e3ec"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+<text x="54" y="74" fill="#246e78" font-size="24" font-weight="600">Hi, I’m Kunkka.</text>
+<text x="50" y="148" fill="#172e3b" font-size="61" font-weight="750" letter-spacing="-2">HID input devices.</text>
+<text x="50" y="218" fill="#172e3b" font-size="61" font-weight="750" letter-spacing="-2">AI products.</text>
+<text x="54" y="278" fill="#536c7c" font-size="23">From a useful idea to a working experience.</text>
+<text x="54" y="345" fill="#536c7c" font-size="17">Product development · Open source · Hands-on experiments</text>
+</g>
+<g transform="translate(806 62) rotate(-9 180 120)">
+<rect x="0" y="20" width="323" height="193" rx="19" fill="#cddde7" stroke="#b7cbd8" stroke-width="2"/>
+<rect x="9" y="27" width="305" height="173" rx="13" fill="#fff"/>
+<rect x="21" y="40" width="32" height="27" rx="5" fill="#e78943" stroke="#cf7638"/><rect x="61" y="40" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="101" y="40" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="141" y="40" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="181" y="40" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="221" y="40" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="261" y="40" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="21" y="75" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="61" y="75" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="101" y="75" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="141" y="75" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="181" y="75" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="221" y="75" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="261" y="75" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="21" y="110" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="61" y="110" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="101" y="110" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="141" y="110" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="181" y="110" width="32" height="27" rx="5" fill="#246e78" stroke="#205d65"/><rect x="221" y="110" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="261" y="110" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="21" y="145" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="61" y="145" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="101" y="145" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="141" y="145" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="181" y="145" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="221" y="145" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/><rect x="261" y="145" width="32" height="27" rx="5" fill="#e8eff4" stroke="#cedde7"/>
+<rect x="101" y="180" width="152" height="10" rx="4" fill="#d5e2eb"/>
+</g>
+<g transform="translate(1153 164) rotate(12)">
+<rect width="78" height="124" rx="38" fill="#fff" stroke="#b7cbd8" stroke-width="2"/>
+<path d="M39 1V52M1 52H77" stroke="#c7d8e3" stroke-width="2"/>
+<rect x="33" y="18" width="12" height="23" rx="6" fill="#246e78"/>
+</g>
+</svg>
