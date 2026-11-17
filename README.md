@@ -29,37 +29,43 @@ This is my space for open-source projects and hands-on experiments, from device 
 
 ## Selected projects / 代表项目
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/SvenKunkka/g6-he-webhid-control"><img src="assets/g6-control.jpg" width="100%" alt="G6 HE Control Lab real interface, disconnected state"></a>
-<h3><a href="https://github.com/SvenKunkka/g6-he-webhid-control">G6 HE Control Lab</a></h3>
-<p>A browser workspace for HID device settings and interaction.<br>面向 HID 输入设备的浏览器配置与交互工具。</p>
-<p><sub>Interface shown without a connected device.<br>截图为未连接设备状态。</sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/SvenKunkka/ai-product-knowledge-chain"><img src="assets/knowledge-chain.jpg" width="100%" alt="AI Product Knowledge Chain real local interface using fictional demo material"></a>
-<h3><a href="https://github.com/SvenKunkka/ai-product-knowledge-chain">AI Product Knowledge Chain</a></h3>
-<p>Connect product information, changes, and review in one workflow.<br>把产品资料、变更与审核串成可追溯的工作流。</p>
-<p><sub>Local prototype with fictional demo material.<br>本机原型，截图使用虚构演练资料。</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/SvenKunkka/ensemble-personal-assistant"><img src="assets/ensemble.jpg" width="100%" alt="Ensemble real local AI coordination interface in simulation mode"></a>
-<h3><a href="https://github.com/SvenKunkka/ensemble-personal-assistant">Ensemble / 合奏</a></h3>
-<p>One workspace for goals, AI coordination, and task progress.<br>在同一工作台管理目标、AI 协作与任务进度。</p>
-<p><sub>Framework preview with simulated agents.<br>框架预览，智能体使用本地模拟。</sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/SvenKunkka/emberfall-chromatic"><img src="assets/emberfall.jpg" width="100%" alt="Emberfall real browser demo title screen"></a>
-<h3><a href="https://github.com/SvenKunkka/emberfall-chromatic">Emberfall / 余烬独行</a></h3>
-<p>A small survival game, built from idea to playable experience.<br>从想法做到可玩的生存闯关游戏，工作之外的兴趣作品。</p>
-<p><sub>Browser demo; physical device testing pending.<br>浏览器试玩，物理掌机测试待完成。</sub></p>
-<p><a href="https://svenkunkka.github.io/emberfall-chromatic/">Play in your browser / 在线试玩</a></p>
-</td>
-</tr>
-</table>
+### [G6 HE Control Lab](https://github.com/SvenKunkka/g6-he-webhid-control)
+
+[![G6 HE Control Lab real interface, disconnected state](assets/g6-control.jpg)](https://github.com/SvenKunkka/g6-he-webhid-control)
+
+A browser workspace for HID device settings and interaction.  
+面向 HID 输入设备的浏览器配置与交互工具。
+
+<sub>Interface shown without a connected device. 截图为未连接设备状态。</sub>
+
+### [AI Product Knowledge Chain](https://github.com/SvenKunkka/ai-product-knowledge-chain)
+
+[![AI Product Knowledge Chain real local interface using fictional demo material](assets/knowledge-chain.jpg)](https://github.com/SvenKunkka/ai-product-knowledge-chain)
+
+Connect product information, changes, and review in one workflow.  
+把产品资料、变更与审核串成可追溯的工作流。
+
+<sub>Local prototype with fictional demo material. 本机原型，截图使用虚构演练资料。</sub>
+
+### [Ensemble / 合奏](https://github.com/SvenKunkka/ensemble-personal-assistant)
+
+[![Ensemble real local AI coordination interface in simulation mode](assets/ensemble.jpg)](https://github.com/SvenKunkka/ensemble-personal-assistant)
+
+One workspace for goals, AI coordination, and task progress.  
+在同一工作台管理目标、AI 协作与任务进度。
+
+<sub>Framework preview with simulated agents. 框架预览，智能体使用本地模拟。</sub>
+
+### [Emberfall / 余烬独行](https://github.com/SvenKunkka/emberfall-chromatic)
+
+[![Emberfall real browser demo title screen](assets/emberfall.jpg)](https://github.com/SvenKunkka/emberfall-chromatic)
+
+A small survival game, built from idea to playable experience.  
+从想法做到可玩的生存闯关游戏，工作之外的兴趣作品。
+
+<sub>Browser demo; physical device testing pending. 浏览器试玩，物理掌机测试待完成。</sub>
+
+[Play in your browser / 在线试玩](https://svenkunkka.github.io/emberfall-chromatic/)
 
 <sub>Real project interfaces, captured on 2026-11-17. Click an image to explore its repository.<br>以上为 2026-11-17 拍摄的真实项目界面，点击图片可进入仓库。</sub>
 
